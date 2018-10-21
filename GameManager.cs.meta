@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 09b0b6a15a81ff1449148c7a3663ef2d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - goItemPrefab: {fileID: 1504066665704432, guid: ab5a29fe47f802c45a3cdad3049aafb4,
+      type: 2}
+  - icItemDataSet: {fileID: 11400000, guid: abe3ee9976c41de40a64193f5367aa82, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

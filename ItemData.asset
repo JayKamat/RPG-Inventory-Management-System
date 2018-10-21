@@ -1,0 +1,274 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af7a1967e260e654ebfe5dbbd5db3af5, type: 3}
+  m_Name: ItemData
+  m_EditorClassIdentifier: 
+  items:
+  - icon: {fileID: 21300000, guid: 6f3e99fbe6ca04d96bc856798515fcd4, type: 3}
+    item_name: BroadSword
+    description: Broader the Better
+    item_class: 0
+    slot: 0
+    damage: 1
+    defence: 1
+    strength: 1
+    agility: 0
+    intel: 0
+    equipped: 0
+    perkPercentage: 0
+    perk_type: 2
+  - icon: {fileID: 21300000, guid: 66abcb3f078484969ba40f06cdfbaee0, type: 3}
+    item_name: Leather Shoes
+    description: Item Description
+    item_class: 0
+    slot: 3
+    damage: 3
+    defence: 5
+    strength: 3
+    agility: 3
+    intel: 3
+    equipped: 0
+    perkPercentage: 0
+    perk_type: 0
+  - icon: {fileID: 21300000, guid: 63be228fdac1d42338c63d3b4775123e, type: 3}
+    item_name: Legendary Body
+    description: Item Description
+    item_class: 3
+    slot: 2
+    damage: 9
+    defence: 9
+    strength: 9
+    agility: 9
+    intel: 9
+    equipped: 0
+    perkPercentage: 0
+    perk_type: 0
+  - icon: {fileID: 21300000, guid: c74ed95ff6b9d4ea78de0e3246f37789, type: 3}
+    item_name: Legendary Feet
+    description: Item Description
+    item_class: 3
+    slot: 3
+    damage: 10
+    defence: 10
+    strength: 10
+    agility: 10
+    intel: 10
+    equipped: 0
+    perkPercentage: 0
+    perk_type: 0
+  - icon: {fileID: 21300000, guid: 5c3bab43368ef40be82e2c6c4c5b96b7, type: 3}
+    item_name: Legendary Head
+    description: Item Description
+    item_class: 3
+    slot: 1
+    damage: 8
+    defence: 8
+    strength: 8
+    agility: 8
+    intel: 8
+    equipped: 0
+    perkPercentage: 0
+    perk_type: 0
+  - icon: {fileID: 21300000, guid: 89a85b0d6de9d4f259a0d6fa9c39534b, type: 3}
+    item_name: Legendary Weapon
+    description: Item Description
+    item_class: 3
+    slot: 0
+    damage: 7
+    defence: 7
+    strength: 7
+    agility: 7
+    intel: 7
+    equipped: 0
+    perkPercentage: 0
+    perk_type: 0
+  - icon: {fileID: 21300000, guid: 2ad63cfed8e5d4d39b744e8d860288b8, type: 3}
+    item_name: Mythical Body
+    description: Item Description
+    item_class: 4
+    slot: 2
+    damage: 20
+    defence: 20
+    strength: 20
+    agility: 20
+    intel: 20
+    equipped: 0
+    perkPercentage: 75
+    perk_type: 1
+  - icon: {fileID: 21300000, guid: fff340142e4b84e708036c0b51d93ab6, type: 3}
+    item_name: Mythical Feet
+    description: Item Description
+    item_class: 4
+    slot: 3
+    damage: 10
+    defence: 10
+    strength: 10
+    agility: 10
+    intel: 10
+    equipped: 0
+    perkPercentage: 50
+    perk_type: 3
+  - icon: {fileID: 21300000, guid: e7a7cfb433c3d4acc9a07cbece1258b7, type: 3}
+    item_name: Mythical Head
+    description: Item Description
+    item_class: 4
+    slot: 1
+    damage: 25
+    defence: 25
+    strength: 25
+    agility: 25
+    intel: 25
+    equipped: 0
+    perkPercentage: 50
+    perk_type: 2
+  - icon: {fileID: 21300000, guid: b20bb1f822693463499065afa6c27f4c, type: 3}
+    item_name: Mythical Weapon
+    description: Item Description
+    item_class: 4
+    slot: 0
+    damage: 15
+    defence: 15
+    strength: 15
+    agility: 15
+    intel: 15
+    equipped: 0
+    perkPercentage: 100
+    perk_type: 0
+  - icon: {fileID: 21300000, guid: bc0d433e0a86e4c4d987c6fa949905fc, type: 3}
+    item_name: Poor Body Armor
+    description: Item Description
+    item_class: 0
+    slot: 2
+    damage: 2
+    defence: 2
+    strength: 2
+    agility: 2
+    intel: 2
+    equipped: 0
+    perkPercentage: 0
+    perk_type: 0
+  - icon: {fileID: 21300000, guid: e8a6d9d54f4d3453ab92eade0734ab34, type: 3}
+    item_name: Poorman's Helmet
+    description: Item Description
+    item_class: 0
+    slot: 1
+    damage: 1
+    defence: 1
+    strength: 1
+    agility: 1
+    intel: 1
+    equipped: 0
+    perkPercentage: 0
+    perk_type: 0
+  - icon: {fileID: 21300000, guid: 9dec0f91ab37142558c609bf856d155a, type: 3}
+    item_name: Rare Body
+    description: Item Description
+    item_class: 2
+    slot: 2
+    damage: 7
+    defence: 7
+    strength: 7
+    agility: 7
+    intel: 7
+    equipped: 0
+    perkPercentage: 0
+    perk_type: 0
+  - icon: {fileID: 21300000, guid: b93446774df1f4c258a1ef5f42c8fde9, type: 3}
+    item_name: Rare Feet
+    description: Item Description
+    item_class: 2
+    slot: 3
+    damage: 6
+    defence: 6
+    strength: 6
+    agility: 6
+    intel: 6
+    equipped: 0
+    perkPercentage: 0
+    perk_type: 0
+  - icon: {fileID: 21300000, guid: e42582761f2004ed18e7c41009e2a6f9, type: 3}
+    item_name: Rare Head
+    description: Item Description
+    item_class: 2
+    slot: 1
+    damage: 7
+    defence: 7
+    strength: 7
+    agility: 7
+    intel: 7
+    equipped: 0
+    perkPercentage: 0
+    perk_type: 0
+  - icon: {fileID: 21300000, guid: 722a41ac62e4d4b79916816cb8f65986, type: 3}
+    item_name: Rare Weapon
+    description: Item Description
+    item_class: 2
+    slot: 0
+    damage: 7
+    defence: 7
+    strength: 7
+    agility: 7
+    intel: 7
+    equipped: 0
+    perkPercentage: 0
+    perk_type: 0
+  - icon: {fileID: 21300000, guid: 754d2f52390674eaea1fa45b76aafc46, type: 3}
+    item_name: Uncommon Body
+    description: Item Description
+    item_class: 1
+    slot: 2
+    damage: 4
+    defence: 4
+    strength: 4
+    agility: 4
+    intel: 4
+    equipped: 0
+    perkPercentage: 0
+    perk_type: 0
+  - icon: {fileID: 21300000, guid: b612081374aef40ca836a2cecd70acbb, type: 3}
+    item_name: Uncommon Feet
+    description: Item Description
+    item_class: 1
+    slot: 3
+    damage: 4
+    defence: 4
+    strength: 4
+    agility: 4
+    intel: 4
+    equipped: 0
+    perkPercentage: 0
+    perk_type: 0
+  - icon: {fileID: 21300000, guid: f2612560389d64920bf1cf12ae57d424, type: 3}
+    item_name: Uncommon Head
+    description: Item Description
+    item_class: 1
+    slot: 1
+    damage: 4
+    defence: 4
+    strength: 4
+    agility: 4
+    intel: 4
+    equipped: 0
+    perkPercentage: 0
+    perk_type: 0
+  - icon: {fileID: 21300000, guid: 2ca0f01bbfea44aacb78e56edc48fc71, type: 3}
+    item_name: Uncommon Weapon
+    description: Item Description
+    item_class: 1
+    slot: 0
+    damage: 3
+    defence: 3
+    strength: 3
+    agility: 3
+    intel: 3
+    equipped: 0
+    perkPercentage: 0
+    perk_type: 0
